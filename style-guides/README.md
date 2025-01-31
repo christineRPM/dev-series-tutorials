@@ -12,7 +12,7 @@
 
 ## Color Palette
 
-[Tailwind Config File Example](/tailwind-config.example.js)
+[Tailwind Config File Example](/style-guides/tailwind-config.example.js)
 
 ### Brand Colors
 | `Purple` | `Primary Blue` | `Light Blue` | `Mint` | `Pink` |
