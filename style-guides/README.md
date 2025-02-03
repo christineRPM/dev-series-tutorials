@@ -9,6 +9,9 @@
 </p>
 
 # Brand Guidelines
+For the most up to date information on logos, colors, fonts, and other brand guidelines please see:
+
+[Client Brand Assets for Avail](https://avail-project.notion.site/Brand-Assets-b20de5cd58ce4f628f5d8442243d9e14)
 
 ## Color Palette
 
